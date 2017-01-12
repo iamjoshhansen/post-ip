@@ -1,0 +1,9 @@
+{
+  "name": "post-ip",
+  "version": "0.1.0",
+  "author": "Joshua Hansen",
+  "description": "Posts the IP address to josh's server",
+  "dependencies": {
+    "http-post": "^0.1.1"
+  }
+}
